@@ -1,0 +1,10 @@
+/*
+Theme Name: Storefront (Child theme)
+Template: storefront
+*/
+
+
+
+.page-template-template-homepage .entry-content {
+    max-width: 60em;
+}
